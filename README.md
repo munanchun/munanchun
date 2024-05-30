@@ -1,4 +1,4 @@
-<img align="right" src="[https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru](https://tuchuang.voooe.cn/images/2024/05/25/2.webp)">
+<img align="right" src="https://tuchuang.voooe.cn/images/2024/05/25/2.webp">
 
 ## 慕楠椿 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
