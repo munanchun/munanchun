@@ -1,5 +1,3 @@
-
-
 ## 慕楠椿 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 ### 自我介绍
@@ -25,7 +23,7 @@
 
 
 
-- <a href="https://www.munanchun.com"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计30万+
+- <a href="https://www.munanchun.com"><img height="22" width="22" src="https://www.munanchun.com/favicon.ico"></a>：个人网站，访问量累计30万+
 - <a href="https://space.bilibili.com/3493132280793685"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1400+
 
 
