@@ -16,7 +16,7 @@
 
 
 - <a href="https://www.munanchun.com"><img height="22" width="22" src="https://www.munanchun.com/favicon.ico"></a>：个人网站，访问量累计30万+
-- 对数据结构与算法、前端、Linux驱动感兴趣
+- 对数据结构与算法、前后端、Linux驱动感兴趣
 - 欢迎光临我的Github 🍧
 
 
