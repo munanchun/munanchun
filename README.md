@@ -44,6 +44,8 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![Express](https://img.shields.io/badge/express-v4.18.2-brightgreen)
+
 
 ### 投喂作者🍭🍭🍭
 
