@@ -42,6 +42,6 @@
 
 ### 投喂作者🍭🍭🍭
 
-<a href="https://tuchuang.voooe.cn/image/zPlrR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://tuchuang.voooe.cn/images/2024/05/25/4444.jpg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br>
