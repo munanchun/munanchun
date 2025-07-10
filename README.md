@@ -3,7 +3,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="300" /></div>
 
 - 大家好，我是慕楠椿，来自中国重庆
 - 目前是一名软件开发在读大学生
