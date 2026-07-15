@@ -1,6 +1,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
  
-<img align="right" alt="image" src="https://tuchuang.voooe.cn/images/2026/06/12/AvSLa5ZXFwVzYj9.jpg"  height="300" />
+<img align="right" alt="image" src="https://tuchuang.voooe.cn/images/2026/06/12/AvSLa5ZXFwVzYj9.jpg"  height="250" />
 
 ### 自我介绍
 
