@@ -3,7 +3,7 @@
 
 ### 自我介绍
 
-<div><img align="center" alt="GIF" src="https://tuchuang.voooe.cn/images/2026/06/12/AvSLa5ZXFwVzYj9.jpg" width="300" height="300" /></div>
+<div><img align="right" alt="GIF" src="https://tuchuang.voooe.cn/images/2026/06/12/AvSLa5ZXFwVzYj9.jpg" width="300" height="300" /></div>
 
 - 大家好，我是慕楠椿，来自中国重庆
 - 目前是一名软件开发在读大学生
