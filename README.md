@@ -1,9 +1,9 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
  
-
+<img align="right" alt="image" src="https://tuchuang.voooe.cn/images/2026/06/12/AvSLa5ZXFwVzYj9.jpg"  height="300" />
 ### 自我介绍
 
-<img align="right" alt="image" src="https://tuchuang.voooe.cn/images/2026/06/12/AvSLa5ZXFwVzYj9.jpg"  height="300" />
+
 
 - 大家好，我是慕楠椿，来自中国重庆
 - 目前是一名软件开发在读大学生
